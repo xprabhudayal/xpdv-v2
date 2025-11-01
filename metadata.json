@@ -1,0 +1,7 @@
+{
+  "name": "Prabhudayal Vaishnav - AI Portfolio",
+  "description": "An interactive, AI-integrated personal portfolio for Prabhudayal Vaishnav, featuring a live conversational agent powered by the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
